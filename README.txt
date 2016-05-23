@@ -16,3 +16,11 @@ Photos search is a simple implementation using Flickr API
 
 AFNetworking is used for interacting with Flickr API
 IDMPhotoBrowser is used to load and show the image on the full screen with its details. This also takes care of the caching using SDWebImage
+
+To build the sample app you either can download the source code or open up Terminal and type
+
+git clone https://github.com/mayankfrequent/Photos-Search.git
+
+And then you're good to go! :)
+
+API key is also included in the sample code
