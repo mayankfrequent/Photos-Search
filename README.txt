@@ -21,6 +21,6 @@ To build the sample app you either can download the source code or open up Termi
 
 git clone https://github.com/mayankfrequent/Photos-Search.git
 
-And then you're good to go! :)
+Double click FlickrSearch.xcworkspace and then you're good to go! :)
 
-API key is also included in the sample code
+Note: API key is also included in the sample code
